@@ -24,12 +24,6 @@ npm run dev
 yarn dev
 ```
 
-<img src="public/assets/preview/1.png" alt="" style="max-width: 100%;">
+<img src="public/assets/preview/main.png" alt="" style="max-width: 100%;">
 
-<img src="public/assets/preview/2.png" alt="" style="max-width: 100%;">
-
-<img src="public/assets/preview/3.png" alt="" style="max-width: 100%;">
-
-<img src="public/assets/preview/4.png" alt="" style="max-width: 100%;">
-
-<img src="public/assets/preview/5.png" alt="" style="max-width: 100%;">
+<img src="public/assets/preview/main1.png" alt="" style="max-width: 100%;">
