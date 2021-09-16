@@ -23,3 +23,13 @@ npm run dev
 # or
 yarn dev
 ```
+
+<img url="public/assets/preview/1.png" alt="">
+
+<img url="public/assets/preview/2.png" alt="">
+
+<img url="public/assets/preview/3.png" alt="">
+
+<img url="public/assets/preview/4.png" alt="">
+
+<img url="public/assets/preview/5.png" alt="">
